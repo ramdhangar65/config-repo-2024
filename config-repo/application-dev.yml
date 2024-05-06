@@ -1,0 +1,5 @@
+# application-dev.yml
+spring:
+  messages:
+    basename: "This is a message for the development environment"
+
